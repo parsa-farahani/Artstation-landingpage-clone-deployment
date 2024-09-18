@@ -1,7 +1,7 @@
 # Artstation Clone
 
 ## Preview
-[![Artstation Clone Preview](assets/images/screenshots/sc-1.png)](https://github.com/parsa-farahani/Artstation-landingpage-clone-deployment/)
+[![Artstation Clone Preview](assets/images/screenshots/sc-1.png)](https://parsa-farahani.github.io/Artstation-landingpage-clone-deployment/)
 
 ## Overview
 
